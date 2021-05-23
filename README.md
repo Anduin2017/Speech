@@ -1,4 +1,4 @@
-# Anduin's videos scrits
+# Anduin's videos scripts
 
 This place is a store that archives all scripts\resources\thumbnails for Anduin's videos.
 
